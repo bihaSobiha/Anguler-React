@@ -1,0 +1,46 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/booking-app/node_modules
+/booking-app/.pnp
+/booking-app/.pnp.js
+
+# testing
+/booking-app/coverage
+
+# production
+/booking-app/build
+
+# misc
+/booking-app/.DS_Store
+/booking-app/.env.local
+/booking-app/.env.development.local
+/booking-app/.env.test.local
+/booking-app/.env.production.local
+
+/booking-app/npm-debug.log*
+/booking-app/yarn-debug.log*
+/booking-app/yarn-error.log*
+
+
+# dependencies
+/react-router/node_modules
+/react-router/.pnp
+/react-router/.pnp.js
+
+# testing
+/react-router/coverage
+
+# production
+/react-router/build
+
+# misc
+/react-router/.DS_Store
+/react-router/.env.local
+/react-router/.env.development.local
+/react-router/.env.test.local
+/react-router/.env.production.local
+
+/react-router/npm-debug.log*
+/react-router/yarn-debug.log*
+/react-router/yarn-error.log*
